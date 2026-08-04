@@ -92,6 +92,21 @@ ColdGuard-IoT-Cold-Storage-Monitoring/
 
 ---
 
+## 📚 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Embedded C programming
+- ARM7 (LPC2148) microcontroller programming
+- DHT11 sensor interfacing
+- EEPROM interfacing using I²C
+- UART communication with ESP-01 Wi-Fi module
+- LCD and keypad interfacing
+- Interrupt handling
+- IoT cloud integration using ThingSpeak
+- Real-time monitoring and alert systems
+- Embedded system debugging and testing
+  
 ## 👨‍💻 Author
 
 **Pavan Kumar Gotla**
