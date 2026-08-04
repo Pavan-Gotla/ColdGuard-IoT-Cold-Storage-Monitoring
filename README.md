@@ -110,3 +110,6 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Author
 
 **Pavan Kumar Gotla**
+
+- **GitHub:** [Pavan-Gotla](https://github.com/Pavan-Gotla)
+- **LinkedIn:** [Pavan Kumar Gotla](https://www.linkedin.com/in/pavan-gotla-074a9a280)
